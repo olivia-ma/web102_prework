@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Game Funding*
 
 Submitted by: **Olivia Ma**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Game Funding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **2** hours spent in total
 
@@ -23,8 +23,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Watch the video](assets/walkthrough.mp4)
+<img src='https://youtu.be/EQFIB5fWYz8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
